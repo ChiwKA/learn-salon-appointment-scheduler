@@ -175,3 +175,4 @@ __vsc_prompt_cmd_original
 ./salon.sh
 ./salon.sh
 ./salon.sh
+pg_dump -cC --inserts -U freecodecamp salon > salon.sql
